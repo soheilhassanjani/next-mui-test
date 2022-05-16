@@ -14,12 +14,21 @@
     "@emotion/react": "latest",
     "@emotion/server": "latest",
     "@emotion/styled": "latest",
+    "@faker-js/faker": "^6.3.1",
     "@mui/icons-material": "latest",
     "@mui/material": "latest",
+    "axios": "^0.27.2",
+    "classnames": "^2.3.1",
+    "lodash.isfunction": "^3.0.9",
     "next": "latest",
+    "overlayscrollbars": "^1.13.1",
+    "overlayscrollbars-react": "^0.2.3",
     "prop-types": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-query": "^3.39.0",
+    "stylis": "^4.1.1",
+    "stylis-plugin-rtl": "^2.1.1"
   },
   "devDependencies": {
     "eslint": "latest",

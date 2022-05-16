@@ -1,0 +1,22 @@
+const BASE_URL_ADDRESS = process.env.NEXT_PUBLIC_API_ADDRESS;
+const BASE_URL_ADDRESS_WSS = process.env.NEXT_PUBLIC_WSS_API_ADDRESS;
+const BASE_URL_LOG_ADDRESS = process.env.NEXT_PUBLIC_SEQ_ADDRESS;
+// URL
+const BASE_URL_SAMIX = "/samix/api/";
+const BASE_URL_MATCHING = "/matching/";
+const BASE_URL_APP = "/app/api/v1/";
+const BASE_URL_TICKETING = "/ticketing/";
+const BASE_URL_NOTIFICATION = "/notification/api/";
+const BASE_URL_SSO = "/sso/api/";
+
+export {
+  BASE_URL_ADDRESS,
+  BASE_URL_ADDRESS_WSS,
+  BASE_URL_SAMIX,
+  BASE_URL_MATCHING,
+  BASE_URL_APP,
+  BASE_URL_TICKETING,
+  BASE_URL_NOTIFICATION,
+  BASE_URL_SSO,
+  BASE_URL_LOG_ADDRESS,
+};
